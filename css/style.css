@@ -3,3 +3,11 @@ body{
   margin: 0;
 }
 
+header{
+  border: 2px solid rgb(1, 140, 1);
+  background-image: url(images/"bacon.jpg");
+  color: white;
+  font-size: 48px;
+  min-height: 350px;
+}
+
