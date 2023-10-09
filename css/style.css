@@ -16,13 +16,16 @@ h1{
     text-align: center;
 }
 div{
-    border: 5px black;
+    border: 5px solid black;
     border-width: 20%
     margin: 10px;
     padding: 20px;
 }
 div:hover{
     background-color: rgb(222, 69, 69)
+}
+div:first-of-type{
+    width: 80%;
 }
 
 .outerdiv{
