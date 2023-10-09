@@ -24,6 +24,7 @@ div{
 div:hover{
     background-color: rgb(222, 69, 69)
 }
+
 div:first-of-type{
     width: 80%;
     text-align: center;
@@ -49,6 +50,10 @@ div:nth-child(odd){
     text-transform: uppercase;
 }
 
+li{
+    width: 200px;
+    background-color: blue;
+}
 
 
 
